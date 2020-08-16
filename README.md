@@ -6,5 +6,4 @@ Python script to generate `ThIs TyPe Of TeXt` (which normally indicates irony).
 ## Usage ##
 `python3 bin/app.py`<br><br>
 
-You'll be asked to enter an input. Type it and press the `ENTER` key.<br>
-The script will do the rest and print you the result.
+You can either feed the script with ARGV input (remember to enclose text in quotes if there's more than one word) or an input manually after executing it (no quotes required).
